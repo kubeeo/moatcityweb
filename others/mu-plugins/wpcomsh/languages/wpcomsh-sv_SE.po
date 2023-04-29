@@ -1,0 +1,993 @@
+# Translation of WordPress.com - Site Helper in Swedish
+# This file is distributed under the same license as the WordPress.com - Site Helper package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-12-24 02:10:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: WordPress.com - Site Helper\n"
+
+#: frontend-notices/gifting-banner/gifting-banner.php:213
+msgid "Gift the author a WordPress.com plan."
+msgstr "Ge författaren ett WordPress.com-paket i gåva."
+
+#: frontend-notices/gifting-banner/gifting-banner.php:201
+msgid "Gift the author a WordPress.com plan before it expires in %d day."
+msgid_plural "Gift the author a WordPress.com plan before it expires in %d days."
+msgstr[0] "Fă-i cadou autorului un plan WordPress.com înainte de a expira peste o zi."
+msgstr[1] "Ge författaren ett WordPress.com-paket i gåva innan den löper ut om %d dagar."
+
+#: frontend-notices/gifting-banner/gifting-banner.php:190
+msgid "Gift the author a WordPress.com upgrade."
+msgstr "Ge författaren en gåva för en WordPress.com-uppgradering."
+
+#: frontend-notices/gifting-banner/gifting-banner.php:163
+msgid "This site's plan has expired."
+msgstr "Detta webbplatspaket har löpt ut."
+
+#: notices/plan-notices.php:131
+msgid "The eCommerce plan for <strong>%3$s</strong> expired on %2$s. <a href=\"%1$s\">Reactivate your plan</a> to retain eCommerce plan features such as custom plugins and themes, SFTP, and phpMyAdmin access."
+msgstr "Ditt eCommerce-paket för <strong>%3$s</strong> löpte ut den %2$s. <a href=\"%1$s\">Återaktivera ditt paket</a> för att behålla funktionerna i eCommerce-paketet, exempelvis anpassade tillägg och teman, SFTP och phpMyAdmin-åtkomst."
+
+#: notices/plan-notices.php:105
+msgid "The Pro plan for <strong>%3$s</strong> expires on %2$s. <a href=\"%1$s\">Renew your plan</a> to retain Pro plan features such as custom plugins and themes, SFTP, and phpMyAdmin access."
+msgstr "Ditt Pro-paket för <strong>%3$s</strong> löper ut den %2$s. <a href=\"%1$s\">Förnya ditt paket</a> för att behålla funktionerna i Pro-paketet, exempelvis anpassade tillägg och teman, SFTP och phpMyAdmin-åtkomst."
+
+#: notices/plan-notices.php:100
+msgid "The eCommerce plan for <strong>%3$s</strong> expires on %2$s. <a href=\"%1$s\">Renew your plan</a> to retain eCommerce plan features such as custom plugins and themes, SFTP, and phpMyAdmin access."
+msgstr "Ditt eCommerce-paket för <strong>%3$s</strong> löper ut den %2$s. <a href=\"%1$s\">Förnya ditt paket</a> för att behålla funktionerna i eCommerce-paketet, exempelvis anpassade tillägg och teman, SFTP och phpMyAdmin-åtkomst."
+
+#: notices/plan-notices.php:95
+msgid "The Business plan for <strong>%3$s</strong> expires on %2$s. <a href=\"%1$s\">Renew your plan</a> to retain Business plan features such as custom plugins and themes, SFTP, and phpMyAdmin access."
+msgstr "Ditt Business-paket för <strong>%3$s</strong> löper ut den %2$s. <a href=\"%1$s\">Förnya ditt paket</a> för att behålla funktionerna i Business-paketet, exempelvis anpassade tillägg och teman, SFTP och phpMyAdmin-åtkomst."
+
+#: storage/storage.php:33
+msgid "You have used your space quota. Please delete files before uploading."
+msgstr "Du har utnyttjat hela ditt tilldelade filutrymme. Radera några filer innan du försöker ladda upp."
+
+#: private-site/logged-in-banner.php:110
+msgid "Change theme"
+msgstr "Byt tema"
+
+#: private-site/logged-in-banner.php:109
+msgid "Change"
+msgstr "Ändra"
+
+#: private-site/logged-in-banner.php:96
+msgid "Edit page"
+msgstr "Redigera sida"
+
+#: private-site/logged-in-banner.php:96
+msgid "Edit post"
+msgstr "Redigera inlägg"
+
+#: private-site/logged-in-banner.php:95
+msgid "Edit"
+msgstr "Redigera"
+
+#: private-site/logged-in-banner.php:146
+msgid "My Home"
+msgstr "Min startsida"
+
+#: private-site/logged-in-banner.php:69
+msgid "Launch"
+msgstr "Starta"
+
+#: private-site/logged-in-banner.php:65
+msgid "Update"
+msgstr "Uppdatera"
+
+#: notices/plan-notices.php:121
+msgid "The Premium plan for <strong>%3$s</strong> expired on %2$s. <a href=\"%1$s\">Reactivate your plan</a> to retain Premium plan features such as site monetization, VideoPress, and Google Analytics support."
+msgstr "Ditt Premium-paket för <strong>%3$s</strong> löpte ut den %2$s. <a href=\"%1$s\">Återaktivera ditt paket</a> för att behålla funktionerna i Premium-paketet, exempelvis intäktsgenerering, VideoPress och Google Analytics-stöd."
+
+#: notices/plan-notices.php:116
+msgid "The Personal plan for <strong>%3$s</strong> expired on %2$s. <a href=\"%1$s\">Reactivate your plan</a> to retain Personal plan features such as 6 GB storage space, no WordPress.com ads, and Subscriber-only content."
+msgstr "Ditt Personal-paket för <strong>%3$s</strong> löpte ut den %2$s. <a href=\"%1$s\">Återaktivera ditt paket</a> för att behålla funktionerna i Personal-paketet, exempelvis 6 GB lagringsutrymme, inga WordPress.com-annonser och prenumerantexklusivt innehåll."
+
+#: notices/plan-notices.php:90
+msgid "The Premium plan for <strong>%3$s</strong> expires on %2$s. <a href=\"%1$s\">Renew your plan</a> to retain Premium plan features such as site monetization, VideoPress, and Google Analytics support."
+msgstr "Ditt Premium-paket för <strong>%3$s</strong> löper ut den %2$s. <a href=\"%1$s\">Förnya ditt paket</a> för att behålla funktionerna i Premium-paketet, exempelvis intäktsgenerering, VideoPress och Google Analytics-stöd."
+
+#: notices/plan-notices.php:85
+msgid "The Personal plan for <strong>%3$s</strong> expires on %2$s. <a href=\"%1$s\">Renew your plan</a> to retain Personal plan features such as 6 GB storage space, no WordPress.com ads, and Subscriber-only content."
+msgstr "Ditt Personal-paket för <strong>%3$s</strong> löper ut den %2$s. <a href=\"%1$s\">Förnya ditt paket</a> för att behålla funktionerna i Personal-paketet, exempelvis 6 GB lagringsutrymme, inga WordPress.com-annonser och prenumerantexklusivt innehåll."
+
+#: notices/php-version-notices.php:30
+msgid "You are currently using PHP <strong>%1$s</strong> which will no longer receive security updates as of %2$s. Please update to PHP %3$s or higher by changing your <a href=\"%4$s\">hosting configuration</a>."
+msgstr "Du använder för närvarande PHP <strong>%1$s</strong>, som från och med %2$s inte längre kommer att få några säkerhetsuppdateringar. Uppdatera till PHP %3$s eller högre genom att ändra din <a href=\"%4$s\">värdkonfiguration</a>."
+
+#: frontend-notices/gifting-banner/gifting-banner.php:102
+#: frontend-notices/gifting-banner/gifting-banner.php:124
+msgid "Gift"
+msgstr "Gåva"
+
+#: frontend-notices/gifting-banner/gifting-banner.php:169
+msgid "Enjoy this site?"
+msgstr "Gillar du denna webbplats?"
+
+#: frontend-notices/class-wpcomsh-frontend-notices.php:152
+msgid "Continue to site"
+msgstr "Fortsätt till webbplats"
+
+#: frontend-notices/class-wpcomsh-frontend-notices.php:151
+msgid "If you enjoy the site, please let the site owner know their plan has expired. Maybe their contact information is on the site?"
+msgstr "Om du gillar webbplatsen, låt webbplatsägaren veta att deras paket har löpt ut. Kanske finns deras kontaktinformation på webbplatsen?"
+
+#: frontend-notices/class-wpcomsh-frontend-notices.php:150
+msgid "This site is going offline soon."
+msgstr "Denna webbplats blir snart offline."
+
+#. translators: 1: opening anchor tag; 2: closing anchor tag.
+#: feature-plugins/full-site-editing.php:130
+msgid "Heads up! Search engines are currently discouraged from indexing your site. If you want search engines to show this site in their search results you have to launch your site. %1$sClick here%2$s to change your site's privacy settings."
+msgstr "Se upp! Sökmotorer är för närvarande blockerade från att indexera din webbplats. Om du vill att sökmotorer ska visa den här webbplatsen i sina sökresultat måste du lansera webbplatsen. %1$sKlicka här%2$s för att ändra integritetsinställningarna för din webbplats."
+
+#. translators: 1: opening anchor tag; 2: closing anchor tag.
+#: feature-plugins/full-site-editing.php:127
+msgid "Heads up! Your site is currently in Coming Soon mode. If you want search engines to show this site in their search results you have to launch your site. %1$sClick here%2$s to change your site's privacy settings."
+msgstr "Se upp! Din webbplats är för närvarande i läget Kommer snart. Om du vill att sökmotorer ska visa den här webbplatsen i sina sökresultat måste du lansera webbplatsen. %1$sKlicka här%2$s för att ändra integritetsinställningarna för din webbplats."
+
+#: feature-plugins/class-template-first-themes.php:406
+msgid "Home"
+msgstr "Hem"
+
+#: feature-plugins/class-template-first-themes.php:205
+msgid "Blog"
+msgstr "Blogg"
+
+#: feature-plugins/hooks.php:140
+msgid "Proxied only: You can see this because you are proxied. Do not use this if you don't know why you are here."
+msgstr "Endast via proxy: Du kan se detta eftersom ditt besök sker via proxy. Använd inte detta om du inte vet varför du är här."
+
+#: feature-plugins/hooks.php:129
+msgid "You do not have permission to access this page."
+msgstr "Du har inte behörighet att komma åt denna sida."
+
+#: feature-plugins/masterbar.php:90
+msgid "Set your color scheme on WordPress.com."
+msgstr "Ställ in ditt färgschema på WordPress.com."
+
+#: feature-plugins/additional-css.php:38 feature-plugins/additional-css.php:41
+msgid "Additional CSS"
+msgstr "Ytterligare CSS"
+
+#: feature-plugins/additional-css.php:38 feature-plugins/additional-css.php:41
+msgid "CSS"
+msgstr "CSS"
+
+#. Description of the plugin
+msgid "WordPress.com provided functionality & tools pre-installed and activated on all Atomic Sites"
+msgstr "WordPress.com ger dig funktioner och verktyg som är förinstallerade på alla Atomic-webbplatser"
+
+#. translators: Message about how a managed theme is updated.
+#. translators: Information about how a managed plugin is updated, for
+#. debugging purposes.
+#. translators: Information about how a managed theme is updated, for debugging
+#. purposes.
+#: feature-plugins/managed-plugins.php:482
+#: feature-plugins/managed-plugins.php:493
+#: feature-plugins/managed-plugins.php:504
+msgid "Updates managed by WordPress.com"
+msgstr "Uppdateringar hanteras av WordPress.com"
+
+#: notices/plan-notices.php:126
+msgid "The Business plan for <strong>%3$s</strong> expired on %2$s. <a href=\"%1$s\">Reactivate your plan</a> to retain Business plan features such as custom plugins and themes, SFTP, and phpMyAdmin access."
+msgstr "Ditt Business-paket för <strong>%3$s</strong> löpte ut den %2$s. <a href=\"%1$s\">Återaktivera ditt paket</a> för att behålla funktionerna i Business-paketet, exempelvis anpassade tillägg och teman, SFTP och phpMyAdmin-åtkomst."
+
+#: notices/plan-notices.php:136
+msgid "The Pro plan for <strong>%3$s</strong> expired on %2$s. <a href=\"%1$s\">Reactivate your plan</a> to retain Pro plan features such as custom plugins and themes, SFTP, and phpMyAdmin access."
+msgstr "Ditt Pro-paket för <strong>%3$s</strong> löpte ut den %2$s. <a href=\"%1$s\">Återaktivera ditt paket</a> för att behålla funktionerna i Pro-paketet, exempelvis anpassade tillägg och teman, SFTP och phpMyAdmin-åtkomst."
+
+#: private-site/access-denied-preview-login-template.php:63
+msgid "This site is private. You need to log in to the preview to see it."
+msgstr "Denna webbplats är privat. Du måste logga in på förhandsgranskningen för att kunna visa den."
+
+#: private-site/access-denied-preview-login-template.php:60
+msgid "This site is private. You need to log in as a user with permissions before previewing it."
+msgstr "Denna webbplats är privat. Du måste logga in som användare med behörighet innan du kan förhandsgranska den."
+
+#: private-site/access-denied-coming-soon-template.php:56
+msgid "Start your website"
+msgstr "Starta din webbplats"
+
+#: private-site/access-denied-coming-soon-template.php:52
+msgid "Build a website. Sell your stuff. Write a blog. And so much more."
+msgstr "Skapa en webbplats. Sälj dina grejer. Skriv en blogg. Och mycket mer."
+
+#: private-site/access-denied-coming-soon-template.php:46
+msgid "Coming Soon"
+msgstr "Kommer snart"
+
+#: notices/storage-notices.php:115
+msgid "Disk space quota"
+msgstr "Diskutrymmeskvot"
+
+#: notices/storage-notices.php:111
+msgid "Disk space used"
+msgstr "Använt diskutrymme"
+
+#: widgets/class-wpcom-category-cloud-widget.php:179
+msgid "Click for more information"
+msgstr "Klicka för mer information"
+
+#: widgets/class-wpcom-category-cloud-widget.php:178
+msgid "Count items in sub-categories toward parent total."
+msgstr "Räkna objekt i underkategorier mot huvudsumman."
+
+#: widgets/class-wpcom-category-cloud-widget.php:168
+msgid "Maximum font percentage:"
+msgstr "Maximalt typsnitts-procent:"
+
+#: widgets/class-wpcom-category-cloud-widget.php:161
+msgid "Minimum font percentage:"
+msgstr "Minsta typsnitts-procent:"
+
+#: widgets/class-wpcom-category-cloud-widget.php:156
+msgid "Category IDs, separated by commas"
+msgstr "Kategori-ID:n, separerade med kommatecken"
+
+#: widgets/class-wpcom-category-cloud-widget.php:153
+msgid "Exclude:"
+msgstr "Exkludera:"
+
+#: widgets/class-wpcom-category-cloud-widget.php:146
+msgid "Maximum number of categories to show:"
+msgstr "Maximalt antal kategorier att visa:"
+
+#: widgets/class-wpcom-category-cloud-widget.php:117
+msgid "If you use more <a href=\"%s\">categories</a> on your site, they will appear here."
+msgstr "Om du använder fler <a href=\"%s\">kategorier</a> på din webbplats kommer de att visas här."
+
+#: widgets/class-wpcom-category-cloud-widget.php:18
+msgid "Your most used categories in cloud format."
+msgstr "Dina mest använda kategorier i molnformat."
+
+#: widgets/class-wpcom-category-cloud-widget.php:16
+#: widgets/class-wpcom-category-cloud-widget.php:45
+msgid "Category Cloud"
+msgstr "Kategorimoln"
+
+#: private-site/private-site.php:172
+msgid "Jetpack is disconnected & site is private. Reconnect Jetpack to manage site visibility settings."
+msgstr "Jetpack är frånkopplat och webbplatsen är privat. Anslut Jetpack igen för att hantera webbplatsens synlighetsinställningar."
+
+#: private-site/logged-in-banner.php:64
+msgid "Update visibility"
+msgstr "Uppdatera synlighet"
+
+#: private-site/logged-in-banner.php:68
+msgid "Launch site"
+msgstr "Lansera webbplatsen"
+
+#: wpcomsh.php:909
+msgid "You are currently using <strong>%1$s</strong> out of <strong>%2$s</strong> upload limit (%3$s%%)."
+msgstr "Du använder för tillfället <strong>%1$s</strong> av <strong>%2$s</strong>. Uppladdningsgräns (%3$s%%)."
+
+#: widgets/twitter.php:412
+msgid "Text to display between Tweet and timestamp:"
+msgstr "Text som ska visas mellan Tweet och tidsstämpel:"
+
+#: widgets/twitter.php:406
+msgid "Display Follow Button"
+msgstr "Visa följ-knapp"
+
+#: widgets/twitter.php:399
+msgid "Include retweets"
+msgstr "Inkludera retweets"
+
+#: widgets/twitter.php:392
+msgid "Hide Tweets pushed by Publicize"
+msgstr "Dölj Tweets från Offentliggör"
+
+#: widgets/twitter.php:385
+msgid "Hide replies"
+msgstr "Dölj svar"
+
+#: widgets/twitter.php:371
+msgid "Maximum number of Tweets to show:"
+msgstr "Maximalt antal Tweets att visa:"
+
+#: widgets/twitter.php:364
+msgid "Twitter username:"
+msgstr "Twitter-användarnamn:"
+
+#: widgets/twitter.php:353
+msgid "Please switch to the 'Twitter Timeline' widget. This widget will be going away in the future and the new widget allows for more customization."
+msgstr "Byt till \"Twitter Timeline\"-widgeten. Denna widget kommer att försvinna i framtiden och den nya widgeten tillåter mer anpassning."
+
+#: widgets/twitter.php:289
+msgid "Error: Please make sure the Twitter account is %1$spublic%2$s."
+msgstr "Fel: Vänligen se till att Twitter-kontot är %1$soffentligt%2$s."
+
+#: widgets/twitter.php:262 widgets/twitter.php:275 widgets/twitter.php:296
+msgid "Error: Twitter did not respond. Please wait a few minutes and refresh this page."
+msgstr "Fel: Twitter svarade inte. Vänta några minuter och uppdatera den här sidan."
+
+#: widgets/twitter.php:61
+msgid "Twitter Updates"
+msgstr "Twitter-uppdateringar"
+
+#: widgets/twitter.php:51
+msgid "Please configure your Twitter username for the <a href=\"%s\">Twitter Widget</a>."
+msgstr "Konfigurera ditt Twitter-användarnamn för <a href=\"%s\">Twitter-widgeten</a>."
+
+#: widgets/twitter.php:29
+msgid "Display your Tweets from Twitter"
+msgstr "Visa dina Tweets från Twitter"
+
+#: widgets/twitter.php:26
+msgid "Twitter"
+msgstr "Twitter"
+
+#: widgets/tag-cloud-widget.php:177
+msgid "Taxonomy:"
+msgstr "Taxonomi:"
+
+#: widgets/tag-cloud-widget.php:159
+msgid "The tag cloud will not be displayed since there are no taxonomies that support the tag cloud widget."
+msgstr "Etikettmolnet kommer inte att visas eftersom det inte finns några taxonomier stöder etikettmolnswidgeten."
+
+#: widgets/tag-cloud-widget.php:152
+msgid "Show tag counts"
+msgstr "Visa antal etiketter"
+
+#: widgets/tag-cloud-widget.php:139
+msgid "Maximum number of tags displayed"
+msgstr "Maximalt antal etiketter att visa"
+
+#: widgets/tag-cloud-widget.php:137
+msgid "Number of Tags:"
+msgstr "Antal etiketter:"
+
+#: widgets/tag-cloud-widget.php:41
+msgid "Tags"
+msgstr "Etiketter"
+
+#: widgets/tag-cloud-widget.php:21
+msgid "Tag Cloud"
+msgstr "Etikettmoln"
+
+#: widgets/tag-cloud-widget.php:18
+msgid "A cloud of your most used tags."
+msgstr "Ett moln av dina mest använda etiketter."
+
+#: widgets/aboutme.php:148
+msgid "Apps"
+msgstr "Appar"
+
+#: widgets/instagram/instagram.php:245
+msgid "New images may take up to %d minutes to show up on your site."
+msgstr "Det kan ta upp till %d minuter innan nya bilder visas på din webbplats."
+
+#: widgets/instagram/instagram.php:237
+msgid "Number of columns:"
+msgstr "Antal kolumner:"
+
+#: widgets/instagram/instagram.php:236
+msgid "Layout"
+msgstr "Layout"
+
+#: widgets/instagram/instagram.php:226
+msgid "Number to display:"
+msgstr "Antal att visa:"
+
+#: widgets/instagram/instagram.php:225
+msgid "Images"
+msgstr "Bilder"
+
+#: widgets/instagram/instagram.php:221
+msgid "Widget Title"
+msgstr "Widget-rubrik"
+
+#: widgets/instagram/instagram.php:189
+msgid "No Instagram images were found."
+msgstr "Inga Instagram-bilder hittades."
+
+#: widgets/instagram/instagram.php:186
+msgid "There was an error retrieving images from Instagram. An attempt will be remade in a few minutes."
+msgstr "Det uppstod ett fel när bilder skulle hämtas från Instagram. Ett nytt försök kommer att göras om några minuter."
+
+#: widgets/instagram/instagram.php:30
+msgid "Display your latest Instagram photos."
+msgstr "Visa dina senaste Instagram-bilder."
+
+#: widgets/instagram/instagram.php:28 widgets/instagram/instagram.php:43
+msgid "Instagram"
+msgstr "Instagram"
+
+#: widgets/class-aboutme-widget.php:159
+msgid "Biography"
+msgstr "Biografi"
+
+#: widgets/class-aboutme-widget.php:152
+msgid "Headline"
+msgstr "Rubrik"
+
+#: widgets/class-aboutme-widget.php:145
+msgid "Photo"
+msgstr "Foto"
+
+#: widgets/class-aboutme-widget.php:141
+msgid "Don't Display Name"
+msgstr "Visa inte namn"
+
+#: widgets/class-aboutme-widget.php:139
+msgid "Display Small"
+msgstr "Visa liten"
+
+#: widgets/class-aboutme-widget.php:137
+msgid "Display Medium"
+msgstr "Visa medium"
+
+#: widgets/class-aboutme-widget.php:135
+msgid "Display Large"
+msgstr "Visa stor"
+
+#: widgets/class-aboutme-widget.php:133
+msgid "Display X-Large"
+msgstr "Visa extra stor"
+
+#: widgets/class-aboutme-widget.php:122
+msgid "Your about.me URL"
+msgstr "Din about.me URL"
+
+#: widgets/class-aboutme-widget.php:115
+msgid "Widget title"
+msgstr "Widget-rubrik"
+
+#: widgets/class-aboutme-widget.php:106
+msgid "The about.me widget will no longer be available after July 1, 2016. After this date, the widget will display a simple text link to your about.me profile. Please remove this widget."
+msgstr "Widgeten about.me kommer inte längre att vara tillgänglig efter 1 juli 2016. Efter detta datum kommer widgeten att visa en enkel textlänk till din about.me-profil. Ta bort den här widgeten."
+
+#: widgets/class-aboutme-widget.php:40
+msgid "The about.me widget is no longer available. To remove this widget, <a href=\"%s\">visit your settings</a>. This message is not shown to visitors to your site."
+msgstr "Widgeten about.me är inte längre tillgänglig. Om du vill ta bort den här widgeten <a href=\"%s\">går du till inställningarna</a>. Det här meddelandet visas inte för besökare på webbplatsen."
+
+#: widgets/class-aboutme-widget.php:20
+msgid "About.me Widget"
+msgstr "About.me-widget"
+
+#: widgets/class-aboutme-widget.php:18
+msgid "Display your about.me profile with thumbnail"
+msgstr "Visa din about.me-profil med miniatyr"
+
+#: safeguard/utils.php:68
+msgid "Unable to fetch the requested data."
+msgstr "Det gick inte att hämta begärda data."
+
+#: footer-credit/theme-optimizations.php:37
+msgid "Create a free website or blog at WordPress.com"
+msgstr "Skapa en gratis webbplats eller blogg på WordPress.com"
+
+#: footer-credit/theme-optimizations.php:32
+msgid "Create a free website at WordPress.com"
+msgstr "Skapa en gratis webbplats på WordPress.com"
+
+#: footer-credit/footer-credit/footer-credit.php:101
+msgid "Powered by WordPress.com"
+msgstr "Drivs med WordPress.com"
+
+#: block-theme-footer-credits/class-wpcom-block-theme-footer-credits.php:81
+#: footer-credit/footer-credit/footer-credit.php:98
+#: footer-credit/theme-optimizations.php:30
+#: footer-credit/theme-optimizations.php:35
+msgid "Blog at WordPress.com"
+msgstr "Blogg på WordPress.com"
+
+#: footer-credit/footer-credit/footer-credit.php:97
+msgid "A WordPress.com Website"
+msgstr "En WordPress.com-webbplats"
+
+#: footer-credit/footer-credit/footer-credit.php:96
+msgid "WordPress.com Logo"
+msgstr "WordPress.com Logo"
+
+#: footer-credit/footer-credit/footer-credit.php:41
+#: footer-credit/footer-credit/footer-credit.php:205
+msgid "Create a website or blog at WordPress.com"
+msgstr "Skapa en webbplats eller blogg på WordPress.com"
+
+#: footer-credit/footer-credit/customizer.php:85
+msgid "Footer Credit"
+msgstr "Erkännande i sidfot"
+
+#: footer-credit/footer-credit/customizer.php:62
+msgid "Upgrade to Business"
+msgstr "Uppgradera till Business"
+
+#: footer-credit/footer-credit/customizer.php:54
+msgid "Hide (Business Plan Required)"
+msgstr "Dölj (Business-paket krävs)"
+
+#: footer-credit/footer-credit/customizer.php:52
+msgid "Hide"
+msgstr "Dölj"
+
+#: footer-credit/footer-credit/customizer.php:41
+msgid "Default"
+msgstr "Standard"
+
+#: footer-credit/footer-credit-optimizations.php:159
+msgid "Design by"
+msgstr "Designad av"
+
+#: footer-credit/footer-credit-optimizations.php:147
+msgid "by"
+msgstr "av"
+
+#: footer-credit/footer-credit-optimizations.php:130
+msgid "Theme"
+msgstr "Tema"
+
+#: footer-credit/footer-credit-optimizations.php:114
+msgid "Proudly powered by WordPress"
+msgstr "Drivs med WordPress"
+
+#: customizer-fixes/customizer-fixes.php:26
+msgid "Save Settings"
+msgstr "Spara inställningar"
+
+#: customizer-fixes/customizer-fixes.php:25
+msgid "Are you sure you want to discard your unsaved changes?"
+msgstr "Är du säker på att du vill förkasta dina ändringar som inte är sparade?"
+
+#: customizer-fixes/customizer-fixes.php:24
+msgid "Saved"
+msgstr "Sparat"
+
+#: customizer-fixes/customizer-fixes.php:23
+msgid "Save Changes"
+msgstr "Spara ändringar"
+
+#: customizer-fixes/customizer-fixes.php:22
+msgid "Save"
+msgstr "Spara"
+
+#: customizer-fixes/customizer-fixes.php:21
+msgid "Activate &amp; Save"
+msgstr "Aktivera och spara"
+
+#: private-site/private-site.php:178
+msgid "Manage your site visibility settings"
+msgstr "Hantera inställningarna för webbplatssynlighet"
+
+#: wpcomsh.php:338
+msgid "This plugin was installed by WordPress.com and provides features offered in your plan subscription."
+msgstr "Detta tillägg installerades av WordPress.com och erbjuder funktioner som erbjuds i din paketprenumeration."
+
+#: wpcomsh.php:335
+msgid "%s is automatically managed for you."
+msgstr "%s är automatiskt hanterat åt dig."
+
+#: widgets/top-rated.php:141
+msgid "How many items would you like to display?"
+msgstr "Hur många inslag vill du visa?"
+
+#: widgets/top-rated.php:137
+msgid "Filter by category"
+msgstr "Filtrera efter kategori"
+
+#: widgets/top-rated.php:131
+msgid "Show for comments"
+msgstr "Visa för kommentarer"
+
+#: widgets/top-rated.php:125
+msgid "Show for pages"
+msgstr "Visa för sidor"
+
+#: widgets/top-rated.php:119
+msgid "Show for posts"
+msgstr "Visa för inlägg"
+
+#: widgets/top-rated.php:11 widgets/top-rated.php:32
+msgid "Top Rated"
+msgstr "Topprankade"
+
+#: widgets/top-rated.php:10
+msgid "A list of your top rated posts, pages or comments."
+msgstr "En lista över dina topprankade inlägg, sidor eller kommentarer."
+
+#: widgets/top-clicks.php:61
+msgid "Top Clicks are calculated from 48-72 hours of stats. They take a while to change."
+msgstr "Klicktoppen beräknas från 48-72 timmars statistik. Det tar ett tag för dem att förändras."
+
+#: widgets/top-clicks.php:53
+msgid "URLs to show:"
+msgstr "URL:er att visa:"
+
+#: widgets/top-clicks.php:47
+msgid "Display length:"
+msgstr "Visa längd:"
+
+#: widgets/top-clicks.php:14
+msgid "List the most-clicked links on your blog."
+msgstr "Visa de mest välbesökta länkarna på din blogg."
+
+#: widgets/top-clicks.php:13 widgets/top-clicks.php:22
+#: widgets/top-clicks.php:66
+msgid "Top Clicks"
+msgstr "Mest klickade"
+
+#: widgets/tlkio/tlkio.php:59
+msgid "Height (in pixel):"
+msgstr "Höjd (i pixlar):"
+
+#: widgets/tlkio/tlkio.php:55
+msgid "Channel:"
+msgstr "Kanal:"
+
+#: widgets/tlkio/tlkio.php:26
+msgid "tlk.io Webchat"
+msgstr "tlk.io-webbchatt"
+
+#: widgets/tlkio/tlkio.php:25
+msgid "Add a tlk.io webchat."
+msgstr "Lägg till en tlk.io-webbchat."
+
+#: widgets/reservations.php:55
+msgid "Show:"
+msgstr "Visa:"
+
+#: widgets/reservations.php:50
+msgid "E-mail Subject:"
+msgstr "E-postämne:"
+
+#: widgets/reservations.php:44
+msgid "Recipient E-mail Address:"
+msgstr "Mottagarens e-postadress:"
+
+#: widgets/reservations.php:29
+msgid "Departure"
+msgstr "Avresa"
+
+#: widgets/reservations.php:28
+msgid "Arrival"
+msgstr "Ankomst"
+
+#: widgets/reservations.php:27
+msgid "# Children"
+msgstr "# Barn"
+
+#: widgets/reservations.php:26
+msgid "# Adults"
+msgstr "# Vuxna"
+
+#: widgets/reservations.php:25
+msgid "Message"
+msgstr "Meddelande"
+
+#: widgets/reservations.php:24
+msgid "Phone"
+msgstr "Telefon"
+
+#: widgets/reservations.php:23
+msgid "Email"
+msgstr "E-post"
+
+#: widgets/class-aboutme-widget.php:129
+#: widgets/class-wpcom-widget-reservations.php:22
+msgid "Name"
+msgstr "Namn"
+
+#: widgets/class-wpcom-widget-reservations.php:16
+msgid "Reservation Inquiry"
+msgstr "Bokningsförfrågan"
+
+#: widgets/class-wpcom-widget-reservations.php:10
+#: widgets/class-wpcom-widget-reservations.php:15
+msgid "Reservations"
+msgstr "Bokningar"
+
+#: widgets/class-wpcom-widget-recent-comments.php:408
+msgid "Show comments from:"
+msgstr "Visa kommentarer från:"
+
+#: widgets/class-wpcom-widget-recent-comments.php:403
+msgid "Text background color:"
+msgstr "Textens bakgrundsfärg:"
+
+#: widgets/class-wpcom-widget-recent-comments.php:397
+msgid "Avatar background color:"
+msgstr "Profilbildens bakgrundsfärg:"
+
+#: widgets/class-wpcom-widget-recent-comments.php:386
+msgid "No Avatars"
+msgstr "Inga profilbilder"
+
+#: widgets/class-wpcom-widget-recent-comments.php:379
+msgid "(at most 15)"
+msgstr "(som mest 15)"
+
+#: widgets/class-wpcom-widget-recent-comments.php:373
+msgid "Number of comments to show:"
+msgstr "Antal kommentarer att visa:"
+
+#: widgets/class-wpcom-widget-recent-comments.php:306
+msgid "There are no public comments available to display."
+msgstr "Det finns inga offentliga kommentarer tillgängliga att visa."
+
+#. translators: comments widget: 1: comment author, 2: post link
+#: widgets/class-wpcom-widget-recent-comments.php:297
+#: widgets/class-wpcom-widget-recent-comments.php:330
+msgctxt "widgets"
+msgid "%1$s on %2$s"
+msgstr "%1$s om %2$s"
+
+#: widgets/class-wpcom-widget-recent-comments.php:269
+msgid "Anonymous"
+msgstr "Anonym"
+
+#: widgets/class-wpcom-widget-recent-comments.php:35
+msgid "Display your site's most recent comments"
+msgstr "Visa din webbplats senaste kommentarer"
+
+#: widgets/class-wpcom-widget-recent-comments.php:32
+#: widgets/class-wpcom-widget-recent-comments.php:152
+msgid "Recent Comments"
+msgstr "Senaste kommentarer"
+
+#: widgets/class-jetpack-posts-i-like-widget.php:273
+msgid "You have not recently liked any posts. Once you do, this <a href=\"%s\">Posts I Like</a> widget will display them."
+msgstr "Du har inte gillat några inlägg på senaste tiden. När du gör det så kan <a href=\"%s\">Inlägg jag gillar-tillägget</a> visa dem för andra."
+
+#: widgets/class-jetpack-posts-i-like-widget.php:263
+msgid "on"
+msgstr "på"
+
+#: widgets/class-jetpack-posts-i-like-widget.php:240
+msgctxt "1: Post Title, 2: Blog Name"
+msgid "%1$s on %2$s"
+msgstr "%1$s på %2$s"
+
+#: widgets/class-jetpack-posts-i-like-widget.php:116
+msgid "Author's likes to display:"
+msgstr "Författarens antal ”Gilla”-markeringar som ska visas:"
+
+#: widgets/class-jetpack-posts-i-like-widget.php:98
+msgid "Grid"
+msgstr "Rutnät"
+
+#: widgets/class-jetpack-posts-i-like-widget.php:97
+msgid "List"
+msgstr "Lista"
+
+#: widgets/class-jetpack-posts-i-like-widget.php:95
+msgid "Display as:"
+msgstr "Visa som:"
+
+#: widgets/class-jetpack-posts-i-like-widget.php:90
+msgid "Number of posts to show (1 to 15):"
+msgstr "Antal inlägg att visa (1 till 15):"
+
+#: widgets/class-jetpack-posts-i-like-widget.php:27
+msgid "A list of the posts I most recently liked"
+msgstr "En lista med inlägg som jag nyligen har gillat"
+
+#: widgets/class-jetpack-posts-i-like-widget.php:25
+#: widgets/class-jetpack-posts-i-like-widget.php:32
+msgid "Posts I Like"
+msgstr "Inlägg jag gillat"
+
+#: widgets/class-music-player-widget.php:91
+msgid "Choose songs"
+msgstr "Välj låtar"
+
+#: widgets/class-music-player-widget.php:19
+#: widgets/class-music-player-widget.php:96
+msgid "Music Player"
+msgstr "Musikspelare"
+
+#: widgets/class-music-player-widget.php:17
+msgid "A multi-song music player"
+msgstr "En multilåt-musikspelare"
+
+#: widgets/class-jetpack-i-voted-widget.php:36
+msgid "I Voted"
+msgstr "Jag har röstat"
+
+#: widgets/class-jetpack-i-voted-widget.php:33
+msgid "Show your readers that you voted with an \"I Voted\" sticker."
+msgstr "Visa dina läsare att du har röstat med ett märke ”Jag har röstat”."
+
+#: widgets/class-gravatar-widget.php:204
+msgid "You can modify your Gravatar from your <a href=\"/wp-admin/profile.php\">profile page</a>."
+msgstr "Du kan ändra din Gravatar från din <a href=\"/wp-admin/profile.php\">profilsida</a>."
+
+#: widgets/class-gravatar-widget.php:203
+msgid "Text displayed after Gravatar. This is optional and can be used to describe yourself or what your blog is about."
+msgstr "Text som visas efter Gravatar. Detta är valfritt och kan användas för att beskriva dig själv eller vad din blogg handlar om."
+
+#: widgets/class-gravatar-widget.php:202
+msgid "Gravatar link. This is an optional URL that will be used when anyone clicks on your Gravatar:"
+msgstr "Gravatar-länk. Detta är en valfri URL som kommer att användas när någon klickar på din Gravatar:"
+
+#: widgets/class-gravatar-widget.php:189
+msgid "Gravatar alignment:"
+msgstr "Gravatar justering:"
+
+#: widgets/class-gravatar-widget.php:175
+msgid "Size:"
+msgstr "Storlek:"
+
+#: widgets/class-gravatar-widget.php:172
+msgid "Custom Email Address:"
+msgstr "Anpassad e-postadress:"
+
+#: widgets/class-gravatar-widget.php:159
+msgid "Select a user or pick \"custom\" and enter a custom email address."
+msgstr "Välj en användare eller välj ”anpassad” och ange en anpassad e-postadress."
+
+#: widgets/class-gravatar-widget.php:154
+msgid "Center"
+msgstr "Centrerat"
+
+#: widgets/class-gravatar-widget.php:153
+msgid "Right"
+msgstr "Höger"
+
+#: widgets/class-gravatar-widget.php:152
+msgid "Left"
+msgstr "Vänster"
+
+#: widgets/class-gravatar-widget.php:151
+#: widgets/class-widget-top-clicks.php:125
+msgid "None"
+msgstr "Ingen"
+
+#: widgets/class-gravatar-widget.php:148
+msgid "Extra Large (256 pixels)"
+msgstr "Extra stor (256 pixlar)"
+
+#: widgets/class-gravatar-widget.php:147
+msgid "Large (128 pixels)"
+msgstr "Stor (128 pixlar)"
+
+#: widgets/class-gravatar-widget.php:146
+msgid "Medium (96 pixels)"
+msgstr "Mellan (96 pixlar)"
+
+#: widgets/class-gravatar-widget.php:145
+msgid "Small (64 pixels)"
+msgstr "Liten (64 pixlar)"
+
+#: widgets/class-gravatar-widget.php:102
+msgid "You need to pick a user or enter an email address in your <a href=\"%s\">Gravatar Widget</a> settings."
+msgstr "Du måste välja en användare eller ange en e-postadress i inställningarna för din <a href=\"%s\">Gravatar-widget</a>."
+
+#: widgets/class-gravatar-widget.php:25
+msgid "Gravatar"
+msgstr "Gravatar"
+
+#: widgets/class-gravatar-widget.php:22
+msgid "Insert a Gravatar image"
+msgstr "Infoga en Gravatar bild"
+
+#: widgets/class-wpcom-freshly-pressed-widget.php:64
+msgid "Choose an image to display in your sidebar:"
+msgstr "Välj en bild att visa på din sidopanel:"
+
+#: widgets/class-wpcom-freshly-pressed-widget.php:13
+msgid "Freshly Pressed"
+msgstr "Nyss bloggat"
+
+#: widgets/class-wpcom-freshly-pressed-widget.php:10
+msgid "Display a Freshly Pressed badge in your sidebar"
+msgstr "Visa en Freshly Pressed-skylt på din sidopanel"
+
+#: widgets/class-widget-authors-grid.php:126
+#: widgets/class-wpcom-widget-recent-comments.php:384
+msgid "Avatar Size (px):"
+msgstr "Profilbildens storlek (px):"
+
+#: widgets/class-widget-authors-grid.php:121
+msgid "Display all authors (including those who have not written any posts)"
+msgstr "Visa alla författare (inklusive de som inte har skrivit några inlägg)"
+
+#: widgets/class-gravatar-widget.php:157
+#: widgets/class-jetpack-i-voted-widget.php:69
+#: widgets/class-jetpack-posts-i-like-widget.php:85
+#: widgets/class-jetpack-widget-twitter.php:387
+#: widgets/class-music-player-widget.php:82 widgets/class-pd-top-rated.php:134
+#: widgets/class-widget-authors-grid.php:115
+#: widgets/class-widget-top-clicks.php:47
+#: widgets/class-wpcom-category-cloud-widget.php:139
+#: widgets/class-wpcom-freshly-pressed-widget.php:60
+#: widgets/class-wpcom-tag-cloud-widget.php:129
+#: widgets/class-wpcom-widget-recent-comments.php:367
+#: widgets/class-wpcom-widget-reservations.php:38
+#: widgets/tlkio/class-tlkio-widget.php:58
+msgid "Title:"
+msgstr "Rubrik:"
+
+#: widgets/class-widget-authors-grid.php:51
+msgid "Authors"
+msgstr "Författare"
+
+#: widgets/class-widget-authors-grid.php:14
+msgid "Show a grid of author avatar images."
+msgstr "Visa profilbilder i ett rutnät av författare."
+
+#: widgets/class-widget-authors-grid.php:11
+msgid "Author Grid"
+msgstr "Författar-rutnät"
+
+#: private-site/private-site.php:664
+msgid "Private Site"
+msgstr "Privat webbplats"
+
+#: private-site/private-site.php:474 private-site/private-site.php:591
+#: private-site/private-site.php:814
+msgid "This site is private."
+msgstr "Denna webbplats är privat."
+
+#: private-site/access-denied-coming-soon-template.php:55
+#: private-site/access-denied-private-site-template.php:47
+msgid "Log in"
+msgstr "Logga in"
+
+#: private-site/access-denied-private-site-template.php:47
+msgid "Switch user"
+msgstr "Byt användare"
+
+#: private-site/access-denied-private-site-template.php:45
+msgid "You need to be logged in as a user who has permission to view this site."
+msgstr "Du måste vara inloggad som en användare som har behörighet för att visa denna webbplats."
+
+#: privacy/class-wp-privacy-participating-plugins.php:181
+msgid ""
+"Please note - this tool only displays privacy policy information provided by\n"
+"WordPress and participating plugins. It does not include privacy policy\n"
+"information for non-participating plugins. It is your responsibility to\n"
+"obtain privacy policy information for non-participating plugins separately."
+msgstr ""
+"Observera – det här verktyget visar enbart sekretesspolicyinformation från\n"
+"WordPress och deltagande plugin-program. Det inkluderar inte sekretesspolicy-\n"
+"information från plugin-program som inte deltar. Du ansvarar själv att\n"
+"separat ta del av sekretesspolicyinformationen från plugin-program som inte deltar."
+
+#: privacy/class-wp-privacy-participating-plugins.php:126
+msgid ""
+"Please note - this tool only exports the personal data stored by WordPress and\n"
+"participating plugins. It does not export personal data stored by\n"
+"non-participating plugins. It is your responsibility to export personal data\n"
+"stored by non-participating plugins separately. The personal data exported\n"
+"includes only the following items at this time:"
+msgstr ""
+"Observera – det här verktyget exporterar enbart personliga data som lagras av WordPress och\n"
+"deltagande plugin-program. Det exporterar inte personliga data som lagrats av\n"
+"plugin-program som inte deltar. Du ansvarar själv att separat exportera personliga data\n"
+"som lagrats av plugin-program som inte deltar. De personliga data som exporteras\n"
+"innefattar enbart följande detaljer för tillfället:"
+
+#: privacy/class-wp-privacy-participating-plugins.php:74
+msgid ""
+"Please note - this tool only erases the personal data stored by WordPress and\n"
+"participating plugins. It does not delete registered users, nor does it erase\n"
+"personal data stored by non-participating plugins. It is your responsibility\n"
+"to delete registered users as well as personal data stored by non-participating\n"
+"plugins. The personal data erased includes only the following items at this\n"
+"time:"
+msgstr ""
+"Observera – det här verktyget raderar enbart personliga data som lagras av WordPress och\n"
+"deltagande plugin-program. Det tar inte bort registrerade användare eller\n"
+"personliga data som lagrats av plugin-program som inte deltar. Du ansvarar själv att\n"
+"ta bort registerade användare samt personliga data som lagrats av plugin-program som\n"
+"inte deltar. De personliga data som raderar innefattar enbart följande detaljer för\n"
+"tillfället:"
+
+#: logo-tool/logo-tool.php:80
+msgid "Create logo"
+msgstr "Skapa logga"
+
+#: logo-tool/logo-tool.php:68
+msgid "Add a logo to display on your site. No logo? Buy a pro one today — Click “Create logo” to start."
+msgstr "Lägg till en logga att visa på din webbplats. Ingen logga? Köp en professionell idag — Klicka på ”Skapa logga” för att starta."
+
+#. Plugin Name of the plugin
+msgid "WP.com Site Helper"
+msgstr "WP.com Site Helper"
