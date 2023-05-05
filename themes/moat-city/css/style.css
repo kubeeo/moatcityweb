@@ -2552,7 +2552,7 @@ footer .social a{margin-bottom: 14px; display: inline-flex; align-items: center;
 
     width: 100%;
 
-    object-fit: contain;
+    object-fit: cover;
 
 }
 
