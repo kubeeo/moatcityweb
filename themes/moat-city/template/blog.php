@@ -52,7 +52,7 @@ get_header(); ?>
                                 </div>
                             </div>
                             <div class="scontent">
-                                <h3><?php echo $title; ?></h3>
+								<h3><a href="<?php echo $link; ?>"><?php echo $title; ?></a></h3>
                                 <div class="spara">
                                     <p><?php echo shortDesc($posttxt,100). '...' ;?></p>
                                 </div>  

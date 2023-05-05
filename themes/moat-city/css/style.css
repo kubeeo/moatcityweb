@@ -2538,7 +2538,7 @@ footer .social a{margin-bottom: 14px; display: inline-flex; align-items: center;
 
 
 
-.single-blog-wrap .content-img{
+/*.single-blog-wrap .content-img{
 
     background-color: #f5f5f5;
 
@@ -2550,18 +2550,37 @@ footer .social a{margin-bottom: 14px; display: inline-flex; align-items: center;
 
     height: 400px;
 
-    width: 100%;
+    width: 80%;
 
     object-fit: cover;
 
+}**/
+
+.single-blog-wrap .content-img {
+    background-color: transparent; /* change background to transparent */
+    display: flex;
+    justify-content: flex-start; /* align items to the left */
+    align-items: flex-start;
+    position: relative; /* add position relative to set the anchor point for the author element */
 }
+
+.single-blog-wrap .content-img img {
+    height: 400px;
+    width: 80%; /* set width to 80% to match the original code */
+    object-fit: cover;
+    display: block; /* set display to block to remove any extra space around the image */
+    margin: 0; /* remove margin to align image to the left */
+    max-width: 100%; /* use max-width instead of width to ensure image doesn't exceed container */
+}
+
 
 
 
 .single-blog-wrap .blog-date{
 
     padding-top: 5px;
-
+    text-align: flex-start; /* center the text within the author element */
+    width: 100%; /* set the width to 100% to span the width of the content-img element */
 }
 
 
